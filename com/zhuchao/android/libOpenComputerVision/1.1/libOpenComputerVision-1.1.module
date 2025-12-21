@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libOpenComputerVision",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenComputerVision-1.1.aar",
+          "url": "libOpenComputerVision-1.1.aar",
+          "size": 24764918,
+          "sha512": "e245e40193109450bba8fac21210b803481c2d92643da31ec8c64bccfb9926a87a24ddb38af66e16a2ebcb136fd190c6cf2135288ce633136c8cd813407b6674",
+          "sha256": "33a32d222b5ff484021f9fa09cd23f73fc540c72cd998243e544b43f9dcfe437",
+          "sha1": "57cb73e0e0e989629fe3dbdc7ec1bc16c95b00b5",
+          "md5": "6de8adafe3f29ca72039ef5bd49d7637"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenComputerVision-1.1.aar",
+          "url": "libOpenComputerVision-1.1.aar",
+          "size": 24764918,
+          "sha512": "e245e40193109450bba8fac21210b803481c2d92643da31ec8c64bccfb9926a87a24ddb38af66e16a2ebcb136fd190c6cf2135288ce633136c8cd813407b6674",
+          "sha256": "33a32d222b5ff484021f9fa09cd23f73fc540c72cd998243e544b43f9dcfe437",
+          "sha1": "57cb73e0e0e989629fe3dbdc7ec1bc16c95b00b5",
+          "md5": "6de8adafe3f29ca72039ef5bd49d7637"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libOpenComputerVision-1.1-sources.jar",
+          "url": "libOpenComputerVision-1.1-sources.jar",
+          "size": 686847,
+          "sha512": "89df45cdd271d96e6523eb68bcca3ced2887ba2e286355a2b5a3ff15edf8c1800e937e29a41989f88859b75c49bfa6730b993154acb7a944b8afedb790e131ae",
+          "sha256": "c2ee00325e7ec6c181aa9027e77ef14f2a1ae1b44cab3f5f7a3aae4308226fde",
+          "sha1": "371cfb92131966d900f043825cdb6440f3329556",
+          "md5": "723764dbbe7c454ce170f885fd9e32c3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libOpenComputerVision-1.1-javadoc.jar",
+          "url": "libOpenComputerVision-1.1-javadoc.jar",
+          "size": 2246383,
+          "sha512": "7508a033155eb708e981768fb3862a9e4245434708ae3b1963d600b719e27ef777760cc0ef7da082b9f611447a33e4ad2ae85575e40d641f3be03ff916ff9fd5",
+          "sha256": "5b5151e4f31316b3884ff5d6c1590915a29800134308d6661d140e3279f3bb56",
+          "sha1": "373cf72539835f650e8a7279e1525142e7632f65",
+          "md5": "37dc1e4a5c6c47969d56710ea5f00a0a"
+        }
+      ]
+    }
+  ]
+}

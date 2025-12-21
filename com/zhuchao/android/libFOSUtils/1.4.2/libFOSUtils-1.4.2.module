@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libFOSUtils-1.4.2.aar",
           "url": "libFOSUtils-1.4.2.aar",
-          "size": 207801,
-          "sha512": "be1deaeb959c47b79bce8d7d678097ad719faa560bcfe11c99af7a9aaf65afff57fb12837e99b51e1463a9d307e37ebb482da750ea0efcc9a40773ad48ed4089",
-          "sha256": "5fe687537e4d4c1a828b1bf0b16dab425185954a6c9a77441852531d9a55acce",
-          "sha1": "e0e7029c56e08ca2d12ff0a34e66a38dc10e9e4d",
-          "md5": "87dc0c5146dcb4dbdb9718edb6f96254"
+          "size": 208520,
+          "sha512": "c9c6db52af35870ccc0582f12218a79576e32be066b24d098db48c330228385b36971cfe80e3fbe51ac3e6a79ee170f1f539777dc958863db241bce3371706e8",
+          "sha256": "bd993960499db15b94adbe43a2db8a3a6dc373497d265d014804e185a94a021c",
+          "sha1": "049fb753f4f4c3852a7b5abc7d576ea90b1a814a",
+          "md5": "069e2e4048d2e8ccf8d2d887728ddb6e"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2.1"
+            "requires": "2.2.3"
           }
         }
       ],
@@ -55,11 +55,11 @@
         {
           "name": "libFOSUtils-1.4.2.aar",
           "url": "libFOSUtils-1.4.2.aar",
-          "size": 207801,
-          "sha512": "be1deaeb959c47b79bce8d7d678097ad719faa560bcfe11c99af7a9aaf65afff57fb12837e99b51e1463a9d307e37ebb482da750ea0efcc9a40773ad48ed4089",
-          "sha256": "5fe687537e4d4c1a828b1bf0b16dab425185954a6c9a77441852531d9a55acce",
-          "sha1": "e0e7029c56e08ca2d12ff0a34e66a38dc10e9e4d",
-          "md5": "87dc0c5146dcb4dbdb9718edb6f96254"
+          "size": 208520,
+          "sha512": "c9c6db52af35870ccc0582f12218a79576e32be066b24d098db48c330228385b36971cfe80e3fbe51ac3e6a79ee170f1f539777dc958863db241bce3371706e8",
+          "sha256": "bd993960499db15b94adbe43a2db8a3a6dc373497d265d014804e185a94a021c",
+          "sha1": "049fb753f4f4c3852a7b5abc7d576ea90b1a814a",
+          "md5": "069e2e4048d2e8ccf8d2d887728ddb6e"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "libFOSUtils-1.4.2-sources.jar",
           "url": "libFOSUtils-1.4.2-sources.jar",
-          "size": 77198,
-          "sha512": "c33ecf70539616879ad06428c0fd366a9f1844faa2edf1ac641211f619478f46c6b98bd8e424563450c4c4cf8f9870071656fa3ca90cbcf46e0f5026ebcd2820",
-          "sha256": "a798c55afe24568351a7ba13f5a034d80d8020388ab206f00ee5f731ea56ae87",
-          "sha1": "6dcd7395414d8424aa66d9668be6645fa41291e5",
-          "md5": "84230ce5418301e68e0148d43fa89e89"
+          "size": 77386,
+          "sha512": "5e34402f9a30e8a1a5a083e3f22bb0b35d4fefe178a2808b635e05a4eff71bc031e88d955445b01b6f41497df9f0a5b2252dc83f0f71b20223d4e06c3d326c79",
+          "sha256": "de4faeb8337c8cc0217ef489bb080359971315872e4f14e5aeaa2e7616125a4c",
+          "sha1": "d263b4627a8de5a2c716368e050fc9eaf4fac79e",
+          "md5": "5746b9bf398202d08f68101cc3282b90"
         }
       ]
     }

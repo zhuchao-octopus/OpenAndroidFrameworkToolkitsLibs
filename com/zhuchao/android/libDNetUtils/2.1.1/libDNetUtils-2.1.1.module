@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libDNetUtils-2.1.1.aar",
           "url": "libDNetUtils-2.1.1.aar",
-          "size": 37375,
-          "sha512": "0b7ca2248550420a9b8dafe29bcb33993dddba813c7fc4da122019610b6e3d30b713039ae577bf0a984d1b5e8dc070100346b22b1c5a80d11f2dc422d387319e",
-          "sha256": "8fa0fcbd5f3f0b0c8616724d16b6b95924eacb522405c69f113388580c216ba2",
-          "sha1": "9ebbf64bdd24dd23aaf8c81deccd6e5e23b72503",
-          "md5": "93791ad407ca0438ca29bec5f4b20736"
+          "size": 38127,
+          "sha512": "bc3804972bbdb2071a223bdecd7964c57b555216b2fe90ae941a6e8b140f529f4f4c497c308377b08253e5bc35466af8e555ee3848db8199be8c2c46b904f741",
+          "sha256": "3ac0216fcdb0d62f21c305a1557b43719d24f14af1f8f64fe184719840a73e2d",
+          "sha1": "2a349f95eb0fa98d5fdc40c4d585c0366f216430",
+          "md5": "9f78975977aee757ee7b02d875c868fe"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2.1"
+            "requires": "2.2.3"
           }
         }
       ],
@@ -55,11 +55,11 @@
         {
           "name": "libDNetUtils-2.1.1.aar",
           "url": "libDNetUtils-2.1.1.aar",
-          "size": 37375,
-          "sha512": "0b7ca2248550420a9b8dafe29bcb33993dddba813c7fc4da122019610b6e3d30b713039ae577bf0a984d1b5e8dc070100346b22b1c5a80d11f2dc422d387319e",
-          "sha256": "8fa0fcbd5f3f0b0c8616724d16b6b95924eacb522405c69f113388580c216ba2",
-          "sha1": "9ebbf64bdd24dd23aaf8c81deccd6e5e23b72503",
-          "md5": "93791ad407ca0438ca29bec5f4b20736"
+          "size": 38127,
+          "sha512": "bc3804972bbdb2071a223bdecd7964c57b555216b2fe90ae941a6e8b140f529f4f4c497c308377b08253e5bc35466af8e555ee3848db8199be8c2c46b904f741",
+          "sha256": "3ac0216fcdb0d62f21c305a1557b43719d24f14af1f8f64fe184719840a73e2d",
+          "sha1": "2a349f95eb0fa98d5fdc40c4d585c0366f216430",
+          "md5": "9f78975977aee757ee7b02d875c868fe"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "libDNetUtils-2.1.1-sources.jar",
           "url": "libDNetUtils-2.1.1-sources.jar",
-          "size": 14555,
-          "sha512": "24f28aec1f3fc8c230b69cec99bbf8cacea0b2d8caa297fe54f4d2f03fd65cf8457f2a8a77fec94d502554845551fdb613e9e91e0b631dc0f53a2909b83d268c",
-          "sha256": "04a3015d0aaff473aa71074d7ecad3645312f616064382192899ea64b7c0109d",
-          "sha1": "718a532cc01fdbc9faf4a7f1651cd756555a5bcc",
-          "md5": "f00a73f250715e099baf8165dbbcf920"
+          "size": 15071,
+          "sha512": "91d53d84ea64229357f14e16fa65ab6ce5d15c8465835d30293a125465abc1b85c0f03170c713257245ce36f7476886fccc24d360800ee1ce790c5fdf3a74822",
+          "sha256": "2e5ba28de8733f7eade33f70b218bb5ecd1945e44b963351618e9d85e9513023",
+          "sha1": "1e2e0a11a7b33c1ec38264e487a948ef6b3fed84",
+          "md5": "92af330865b8957ed4826f4472ade6be"
         }
       ]
     }

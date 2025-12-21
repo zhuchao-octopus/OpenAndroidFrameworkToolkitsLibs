@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -34,11 +34,11 @@
         {
           "name": "libFPersistUtils-1.2.aar",
           "url": "libFPersistUtils-1.2.aar",
-          "size": 9540,
-          "sha512": "9cf0f6b7e23005e4799a71fe27bc0f73eb0881b1116675fa452f579c97c383ea563b9adb90172788f11251b045be832b34e7de5d99edd95ade0e1d172aa2e554",
-          "sha256": "eff7835cb29749198af1d5a7e8390c8e21136bdffb6d4e9941b18cddaaacbcd0",
-          "sha1": "0ce58d598e735c2bd7eaeed634cc36e94089716d",
-          "md5": "4f206abccd79cf5caf6f21d8075daa88"
+          "size": 9701,
+          "sha512": "5ccb0c5ec2d67112b5f4c48fee8652fd42f1a9e2d9467987e39c9c579865c8c83c877f2cb978f80e8c6a90af6312d8ecda586b15b0ad87a8082efb98a297c1ee",
+          "sha256": "15d71f532a5f9ab36619dfd6232c3082498081f7eb1fb1f4d7224945b5d7c6c8",
+          "sha1": "1357d5902de29778132bb6f65ef1908353273690",
+          "md5": "eda90c977ccb1bc122c136495a62b808"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2.1"
+            "requires": "2.2.3"
           }
         },
         {
@@ -69,11 +69,11 @@
         {
           "name": "libFPersistUtils-1.2.aar",
           "url": "libFPersistUtils-1.2.aar",
-          "size": 9540,
-          "sha512": "9cf0f6b7e23005e4799a71fe27bc0f73eb0881b1116675fa452f579c97c383ea563b9adb90172788f11251b045be832b34e7de5d99edd95ade0e1d172aa2e554",
-          "sha256": "eff7835cb29749198af1d5a7e8390c8e21136bdffb6d4e9941b18cddaaacbcd0",
-          "sha1": "0ce58d598e735c2bd7eaeed634cc36e94089716d",
-          "md5": "4f206abccd79cf5caf6f21d8075daa88"
+          "size": 9701,
+          "sha512": "5ccb0c5ec2d67112b5f4c48fee8652fd42f1a9e2d9467987e39c9c579865c8c83c877f2cb978f80e8c6a90af6312d8ecda586b15b0ad87a8082efb98a297c1ee",
+          "sha256": "15d71f532a5f9ab36619dfd6232c3082498081f7eb1fb1f4d7224945b5d7c6c8",
+          "sha1": "1357d5902de29778132bb6f65ef1908353273690",
+          "md5": "eda90c977ccb1bc122c136495a62b808"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "libFPersistUtils-1.2-sources.jar",
           "url": "libFPersistUtils-1.2-sources.jar",
-          "size": 9001,
-          "sha512": "37746a9ab2e523f3f6ac1fe29562ce5c332e4977c64e4e6bc5df1d84e340bb4d8116559dc85627084ef597ad1e345a25e7fb437fba067508b7604911fc0727bf",
-          "sha256": "522a21afeff0a5ac04ae73cec0a231f7cc770f1ca1e36d7b291345ce01e20853",
-          "sha1": "515329b65cdeeedfc65fa78201563c19b99261c6",
-          "md5": "90f95f21f57d4741aa94ef07581800a6"
+          "size": 13243,
+          "sha512": "8ba46e05b42817055d2560315cf24a086624b7d8dcea3bb4e2452c66388e608e00c199fe93a55c802beceb69d7f1d42e37c8506110ce1a7d4566bd6355b445be",
+          "sha256": "dacaf986bf40dd92de55433c64f591ce203586bdcd062f1b81d2aa27179d6fad",
+          "sha1": "901aaefcb26387c486d13689421d2dcf806e086e",
+          "md5": "b4a3fbe3faf2b251ce2c61aca6c72e3b"
         }
       ]
     }

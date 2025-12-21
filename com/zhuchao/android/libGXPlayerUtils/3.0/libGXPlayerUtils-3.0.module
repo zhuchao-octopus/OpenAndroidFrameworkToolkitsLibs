@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libGXPlayerUtils-3.0.aar",
           "url": "libGXPlayerUtils-3.0.aar",
-          "size": 206509,
-          "sha512": "1ddbc2659ebc03a3b215127778b3c121fb85630e501cd94556427c9c808c50efb88c7585598f4f2ff56f873310aab26fa4a65d279557739480cf5db8b8229bc2",
-          "sha256": "187368c9a0e85584286fb8b921f9e2d5879def81d24eaa058a4752f889a1099b",
-          "sha1": "ae9bfdc46b8499ca353f495d02205ed71e3fb12a",
-          "md5": "9b296c76062dd4a43a7ef8caaf187ef1"
+          "size": 206554,
+          "sha512": "190d5ccb5f96ee353b02a56e7cc836bc267b3da8b8adf41a150811fb862f37109a23dd7230bf0a7fec0de996f5caeb7d5cc33b337e7818e1af07d97496371770",
+          "sha256": "a0deb8157bf114135070fd23842ffa097164e88f136b7c4a26004638607f8c35",
+          "sha1": "fcfd43ee2b9d8c9347872f2d9a1b6b3fbebca09b",
+          "md5": "c61f82bd509fddbf03ed05026ca33729"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2.1"
+            "requires": "2.2.3"
           }
         },
         {
@@ -68,7 +68,14 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.1.4"
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "org.videolan.android",
+          "module": "libvlc-all",
+          "version": {
+            "requires": "4.0.0-eap23"
           }
         }
       ],
@@ -76,11 +83,11 @@
         {
           "name": "libGXPlayerUtils-3.0.aar",
           "url": "libGXPlayerUtils-3.0.aar",
-          "size": 206509,
-          "sha512": "1ddbc2659ebc03a3b215127778b3c121fb85630e501cd94556427c9c808c50efb88c7585598f4f2ff56f873310aab26fa4a65d279557739480cf5db8b8229bc2",
-          "sha256": "187368c9a0e85584286fb8b921f9e2d5879def81d24eaa058a4752f889a1099b",
-          "sha1": "ae9bfdc46b8499ca353f495d02205ed71e3fb12a",
-          "md5": "9b296c76062dd4a43a7ef8caaf187ef1"
+          "size": 206554,
+          "sha512": "190d5ccb5f96ee353b02a56e7cc836bc267b3da8b8adf41a150811fb862f37109a23dd7230bf0a7fec0de996f5caeb7d5cc33b337e7818e1af07d97496371770",
+          "sha256": "a0deb8157bf114135070fd23842ffa097164e88f136b7c4a26004638607f8c35",
+          "sha1": "fcfd43ee2b9d8c9347872f2d9a1b6b3fbebca09b",
+          "md5": "c61f82bd509fddbf03ed05026ca33729"
         }
       ]
     },
@@ -96,11 +103,11 @@
         {
           "name": "libGXPlayerUtils-3.0-sources.jar",
           "url": "libGXPlayerUtils-3.0-sources.jar",
-          "size": 20600,
-          "sha512": "09c88fb205d119a53d051f4a2aa85a5536355de8034725ffbc9e8098b7e560af8cdcc42512fd237f3dbe977554db2e6c106eec687467a1276705c1f11ee37cdf",
-          "sha256": "63f55f1e071287f51ada122697845744cffb0639ff25cc6ccc0208a9de214fcc",
-          "sha1": "41f78ef33bccb5a4e1e3b38c675e441801175696",
-          "md5": "057cf4e5fd72881dcb51d66c5cbf7359"
+          "size": 20603,
+          "sha512": "71c1dfa06a1190fbc38895acc008ffd9aaea32861a3926e5478c6a0385aad6fe233f736ab6536e2012f7a96929e53e36ff404c6fae98a5f97bc39a4280de4737",
+          "sha256": "ce68db6013ed7e1c206ebd87a2d533eb3999a46b1db909f6243db567cb2e4279",
+          "sha1": "dff1f9a3d7b1fc1b807e46f3cedd316bd5c1e5d6",
+          "md5": "f7ff7bfe38122831ae89e44454a20b9a"
         }
       ]
     }

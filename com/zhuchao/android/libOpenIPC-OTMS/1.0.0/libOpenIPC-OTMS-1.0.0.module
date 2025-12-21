@@ -1,0 +1,126 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libOpenIPC-OTMS",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libOpenIPC-OTMS-1.0.0.aar",
+          "url": "libOpenIPC-OTMS-1.0.0.aar",
+          "size": 2514855,
+          "sha512": "4f5035c8916df1dcc4c2baee4ae423a652caac78bb8d94f86a999cb64a05db70f3fbce0ef0bfd4898b4e7dda29d8249cf06c2862f7bc945e2743ef99f016a738",
+          "sha256": "41bafee2c5b2331f4a59483440a23a0990035599a00ab0c84632915c549d429a",
+          "sha1": "aafba2aed12b91bbc48a40f456f11cf74915636a",
+          "md5": "0cbfc0b0999c9e3bc9fa6a5c3fa37270"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "2.2.20"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.4.2"
+          }
+        },
+        {
+          "group": "androidx.documentfile",
+          "module": "documentfile",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenIPC-OTMS-1.0.0.aar",
+          "url": "libOpenIPC-OTMS-1.0.0.aar",
+          "size": 2514855,
+          "sha512": "4f5035c8916df1dcc4c2baee4ae423a652caac78bb8d94f86a999cb64a05db70f3fbce0ef0bfd4898b4e7dda29d8249cf06c2862f7bc945e2743ef99f016a738",
+          "sha256": "41bafee2c5b2331f4a59483440a23a0990035599a00ab0c84632915c549d429a",
+          "sha1": "aafba2aed12b91bbc48a40f456f11cf74915636a",
+          "md5": "0cbfc0b0999c9e3bc9fa6a5c3fa37270"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libOpenIPC-OTMS-1.0.0-sources.jar",
+          "url": "libOpenIPC-OTMS-1.0.0-sources.jar",
+          "size": 1534,
+          "sha512": "07e6f6419cdc7361cecae43608a2ec5213b54d46737068fb18abf9fa18c8a15f1c8fe066dcc9db4a8a6eb77a0b4c77a400a56677ee62db29489ada26c9413fe0",
+          "sha256": "14bd8614736d01d024015d69238da1742a28a9a6a2205dcf177748477cf599b8",
+          "sha1": "e225285c4e86586b82d7860a1376628026d36bd8",
+          "md5": "6c165edd67cd4a04100e73483996affc"
+        }
+      ]
+    }
+  ]
+}

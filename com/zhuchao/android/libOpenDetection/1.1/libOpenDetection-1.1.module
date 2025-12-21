@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -35,10 +35,10 @@
           "name": "libOpenDetection-1.1.aar",
           "url": "libOpenDetection-1.1.aar",
           "size": 21327,
-          "sha512": "bf836073fcc64adeff791dd99d288d1fef46d3933e333879336ec10133bd8c726282bb313dc50ea345ccae01cc33d29b3d9d6e8ac328422b6b153ce8a9406ab0",
-          "sha256": "aefa380a109bc252b43e103d48f1e29b1f18dcdd0cf5bf6e82e967ff69412016",
-          "sha1": "2c63f7e5892b70f8e9e94de5553daac23d46dc96",
-          "md5": "829418a890f6f109d515ddcc3014d2da"
+          "sha512": "9db0e9394ad93ac6a04a345df25a0bf8562e8c46271dac8a721263c13d275250099bf3595aca90dec6ab413da6e33956987994ce30e77e843c5eb0d16ac6cb20",
+          "sha256": "5f4e2ea127f080d4a30abf29d3c07a201d1a5e02a4a87c9a9447da41d021e0b5",
+          "sha1": "f2475815c1c5f8b9d9e3eee911a7e030f389ae70",
+          "md5": "87b083fb4f89b69368f7532b9387f3b9"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2.1"
+            "requires": "2.2.3"
           }
         },
         {
@@ -68,28 +68,28 @@
           "group": "androidx.annotation",
           "module": "annotation",
           "version": {
-            "requires": "1.7.0-alpha02"
+            "requires": "1.9.1"
           }
         },
         {
           "group": "androidx.exifinterface",
           "module": "exifinterface",
           "version": {
-            "requires": "1.3.6"
+            "requires": "1.4.2"
           }
         },
         {
           "group": "org.tensorflow",
           "module": "tensorflow-lite",
           "version": {
-            "requires": "2.16.1"
+            "requires": "2.17.0"
           }
         },
         {
           "group": "org.tensorflow",
           "module": "tensorflow-lite-gpu",
           "version": {
-            "requires": "2.16.1"
+            "requires": "2.17.0"
           }
         },
         {
@@ -105,10 +105,10 @@
           "name": "libOpenDetection-1.1.aar",
           "url": "libOpenDetection-1.1.aar",
           "size": 21327,
-          "sha512": "bf836073fcc64adeff791dd99d288d1fef46d3933e333879336ec10133bd8c726282bb313dc50ea345ccae01cc33d29b3d9d6e8ac328422b6b153ce8a9406ab0",
-          "sha256": "aefa380a109bc252b43e103d48f1e29b1f18dcdd0cf5bf6e82e967ff69412016",
-          "sha1": "2c63f7e5892b70f8e9e94de5553daac23d46dc96",
-          "md5": "829418a890f6f109d515ddcc3014d2da"
+          "sha512": "9db0e9394ad93ac6a04a345df25a0bf8562e8c46271dac8a721263c13d275250099bf3595aca90dec6ab413da6e33956987994ce30e77e843c5eb0d16ac6cb20",
+          "sha256": "5f4e2ea127f080d4a30abf29d3c07a201d1a5e02a4a87c9a9447da41d021e0b5",
+          "sha1": "f2475815c1c5f8b9d9e3eee911a7e030f389ae70",
+          "md5": "87b083fb4f89b69368f7532b9387f3b9"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "libOpenDetection-1.1-sources.jar",
           "url": "libOpenDetection-1.1-sources.jar",
-          "size": 10507,
-          "sha512": "f7e9e8a7480341f978658cfa52dae88ff28cf62d4edcfb9ce0beb57a317609cfc98b2fe888dc77e2dd2efa1463a00d09a38126f014505f8aa2dfd4294ebe0ca9",
-          "sha256": "ea12b93c0f984053ed24f39fc1f02ce1c351a30e9c325b74eaa249d0c89f48c0",
-          "sha1": "b8d43f8317310fb5d23f364f2eb266f8c168b2cc",
-          "md5": "47c32181f33452ac1bacf05d11de0b3f"
+          "size": 15347,
+          "sha512": "7c965f2d7628ae1b50f8903dabdf0d2f58f220791cb3656b3cdb304bb62bd42748821ef524abee5c8c24461546d92d4a09620536410d64d9be774a9f1d5f803c",
+          "sha256": "32cdf235de7a400cb6d332acce68fb2fc79486e75f38f6745455a19a9672b55b",
+          "sha1": "b87baa63e3a969f6c30c79416a264d78b913a4f7",
+          "md5": "22b266245465a7f123d0f51fe3ef49f6"
         }
       ]
     }

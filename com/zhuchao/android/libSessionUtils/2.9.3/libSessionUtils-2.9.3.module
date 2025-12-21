@@ -1,0 +1,136 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libSessionUtils",
+    "version": "2.9.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.9.3.aar",
+          "url": "libSessionUtils-2.9.3.aar",
+          "size": 172750,
+          "sha512": "32c1c03ccb30dbd320feadbc360a31cf8a6aa7c5f42ba3ebc3856f5980157dcf00b08504b949120e5ca503a4df549df8091f0e522e6be35b6104123b46ecdf7c",
+          "sha256": "c188b1400dbfbb331d18458816ca59a311f10eecbceb07f17124aca168c1620f",
+          "sha1": "3dbd94dd5ff5b741567b89ccdadaf801e9ebf792",
+          "md5": "71e2fcd252745da78cf6116176a575cb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2.3"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFOSUtils",
+          "version": {
+            "requires": "1.4.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDNetUtils",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGXMediaUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGXPlayerUtils",
+          "version": {
+            "requires": "3.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFPersistUtils",
+          "version": {
+            "requires": "1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libSessionUtils-2.9.3.aar",
+          "url": "libSessionUtils-2.9.3.aar",
+          "size": 172750,
+          "sha512": "32c1c03ccb30dbd320feadbc360a31cf8a6aa7c5f42ba3ebc3856f5980157dcf00b08504b949120e5ca503a4df549df8091f0e522e6be35b6104123b46ecdf7c",
+          "sha256": "c188b1400dbfbb331d18458816ca59a311f10eecbceb07f17124aca168c1620f",
+          "sha1": "3dbd94dd5ff5b741567b89ccdadaf801e9ebf792",
+          "md5": "71e2fcd252745da78cf6116176a575cb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.9.3-sources.jar",
+          "url": "libSessionUtils-2.9.3-sources.jar",
+          "size": 76444,
+          "sha512": "8d47c15a320c5ecbf85b720730fb1d5a70e91e9bd7e2b7161d1cae2268f43c9a50fb6f130b217d024568dd78e4b451ad66f9a40515a252cb12ddd053aec1a92e",
+          "sha256": "76ad78800500a7e7daf992ecca2bc49ada0a93a26ca6d900e72586010ab4f26b",
+          "sha1": "3f35a239c7a0ceb5eea552c105d4335922303eb4",
+          "md5": "8378ac4343bab9cf45ab9f4f59ee0a9e"
+        }
+      ]
+    }
+  ]
+}

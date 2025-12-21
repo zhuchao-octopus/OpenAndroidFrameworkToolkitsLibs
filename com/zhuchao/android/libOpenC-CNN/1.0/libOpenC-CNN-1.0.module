@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.7"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libOpenC-CNN-1.0.aar",
           "url": "libOpenC-CNN-1.0.aar",
-          "size": 123917,
-          "sha512": "40c726426d589dcd6d2f743df435930417c8ac9b5fbdc9808413f7db4a25ec510295640cbcb8eb76437a434d95e5e7e75afe53bc853693633963dcab87b1c9f3",
-          "sha256": "7337da7e9d2ed607a85b11eea43b54e694f852f92743f0e5cbba5ef27b1b15e5",
-          "sha1": "63281ba1a8c1e6ab1a3528bb2cc855488c29c2f5",
-          "md5": "457a0272ee000c4ad63ac229550d567c"
+          "size": 122607,
+          "sha512": "ab13cf4323b06fa275087626e0471f2fc70fa0c3289fd9b6849858b5e6cd54851c3069e87b1e6463c46d53d5ca162769c172e79d65e2df914c0e750c21b08561",
+          "sha256": "98f9563c8336cb9fc83a8e47caa2f7d1339bba1233671b33729314cc57c5b60a",
+          "sha1": "771f9b6c1ef9683edaa72460ffb79350907b9054",
+          "md5": "b17aaaf11de922389154012ed185105c"
         }
       ]
     },
@@ -47,14 +47,14 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.1"
+            "requires": "1.7.1"
           }
         },
         {
           "group": "com.google.android.material",
           "module": "material",
           "version": {
-            "requires": "1.10.0"
+            "requires": "1.13.0"
           }
         }
       ],
@@ -62,11 +62,11 @@
         {
           "name": "libOpenC-CNN-1.0.aar",
           "url": "libOpenC-CNN-1.0.aar",
-          "size": 123917,
-          "sha512": "40c726426d589dcd6d2f743df435930417c8ac9b5fbdc9808413f7db4a25ec510295640cbcb8eb76437a434d95e5e7e75afe53bc853693633963dcab87b1c9f3",
-          "sha256": "7337da7e9d2ed607a85b11eea43b54e694f852f92743f0e5cbba5ef27b1b15e5",
-          "sha1": "63281ba1a8c1e6ab1a3528bb2cc855488c29c2f5",
-          "md5": "457a0272ee000c4ad63ac229550d567c"
+          "size": 122607,
+          "sha512": "ab13cf4323b06fa275087626e0471f2fc70fa0c3289fd9b6849858b5e6cd54851c3069e87b1e6463c46d53d5ca162769c172e79d65e2df914c0e750c21b08561",
+          "sha256": "98f9563c8336cb9fc83a8e47caa2f7d1339bba1233671b33729314cc57c5b60a",
+          "sha1": "771f9b6c1ef9683edaa72460ffb79350907b9054",
+          "md5": "b17aaaf11de922389154012ed185105c"
         }
       ]
     },
