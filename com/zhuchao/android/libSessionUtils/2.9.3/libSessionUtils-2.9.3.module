@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.9.3.aar",
           "url": "libSessionUtils-2.9.3.aar",
-          "size": 172750,
-          "sha512": "32c1c03ccb30dbd320feadbc360a31cf8a6aa7c5f42ba3ebc3856f5980157dcf00b08504b949120e5ca503a4df549df8091f0e522e6be35b6104123b46ecdf7c",
-          "sha256": "c188b1400dbfbb331d18458816ca59a311f10eecbceb07f17124aca168c1620f",
-          "sha1": "3dbd94dd5ff5b741567b89ccdadaf801e9ebf792",
-          "md5": "71e2fcd252745da78cf6116176a575cb"
+          "size": 195256,
+          "sha512": "378dbb7f50fe56c9eafbfdc96f176ddfa4cf09881d2c3c95ca6159990972ecce8936f8e59c7f81d85711002abc92029b0ee396ee426689c8d7ddbd8c5bcc59ad",
+          "sha256": "795f3fa4f7a51355f3fec48ad30e2a046f85f19aa91fcf9648a503e0e1d0f6e4",
+          "sha1": "70108bd657d1934afaa4268698dcc0bec8a648da",
+          "md5": "9b1eb6d2c3cf2f0972aba189ae471e6e"
         }
       ]
     },
@@ -82,7 +82,7 @@
           "group": "com.zhuchao.android",
           "module": "libGXMediaUtils",
           "version": {
-            "requires": "2.0"
+            "requires": "2.1"
           }
         },
         {
@@ -104,11 +104,11 @@
         {
           "name": "libSessionUtils-2.9.3.aar",
           "url": "libSessionUtils-2.9.3.aar",
-          "size": 172750,
-          "sha512": "32c1c03ccb30dbd320feadbc360a31cf8a6aa7c5f42ba3ebc3856f5980157dcf00b08504b949120e5ca503a4df549df8091f0e522e6be35b6104123b46ecdf7c",
-          "sha256": "c188b1400dbfbb331d18458816ca59a311f10eecbceb07f17124aca168c1620f",
-          "sha1": "3dbd94dd5ff5b741567b89ccdadaf801e9ebf792",
-          "md5": "71e2fcd252745da78cf6116176a575cb"
+          "size": 195256,
+          "sha512": "378dbb7f50fe56c9eafbfdc96f176ddfa4cf09881d2c3c95ca6159990972ecce8936f8e59c7f81d85711002abc92029b0ee396ee426689c8d7ddbd8c5bcc59ad",
+          "sha256": "795f3fa4f7a51355f3fec48ad30e2a046f85f19aa91fcf9648a503e0e1d0f6e4",
+          "sha1": "70108bd657d1934afaa4268698dcc0bec8a648da",
+          "md5": "9b1eb6d2c3cf2f0972aba189ae471e6e"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "libSessionUtils-2.9.3-sources.jar",
           "url": "libSessionUtils-2.9.3-sources.jar",
-          "size": 76444,
-          "sha512": "8d47c15a320c5ecbf85b720730fb1d5a70e91e9bd7e2b7161d1cae2268f43c9a50fb6f130b217d024568dd78e4b451ad66f9a40515a252cb12ddd053aec1a92e",
-          "sha256": "76ad78800500a7e7daf992ecca2bc49ada0a93a26ca6d900e72586010ab4f26b",
-          "sha1": "3f35a239c7a0ceb5eea552c105d4335922303eb4",
-          "md5": "8378ac4343bab9cf45ab9f4f59ee0a9e"
+          "size": 85771,
+          "sha512": "b0bf488d271d0416c3b7efcbf0c72adc1439f5e8848446130e18c0ad1aa5e7a06ebc26462eb3b449bd1a681b9b9c9f22259c872c8ad90ced85e3a0f648ca4fcd",
+          "sha256": "3f1dd07473a37ae0e99e6de6e22c87fbab91810d9799d8cb7060cff6572f8d4c",
+          "sha1": "1055c7c9f1d46810c6ee19c10f83898d13a50d6c",
+          "md5": "319825555eeaac49b2851f9c12a75bf7"
         }
       ]
     }
